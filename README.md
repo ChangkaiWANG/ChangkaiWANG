@@ -1,7 +1,9 @@
 <!-- Introduction -->
 <h1 align="center">
-# Hi there, my name is Changkai !
+  <img src="https://media.tenor.com/8AqUPOC5GMgAAAAi/parrot-party.gif" width="28"> 
+  Hi there, my name is Changkai !
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  
 </h1>
 
 
