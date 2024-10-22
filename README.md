@@ -1,10 +1,16 @@
 <!-- Introduction -->
-<h1 align="center">
-  <img src="https://media.tenor.com/8AqUPOC5GMgAAAAi/parrot-party.gif" width="28"> 
-  Hi there, my name is Changkai !
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  
-</h1>
+<div align="center">
+  <h1 align="center">
+    <img src="https://media.tenor.com/8AqUPOC5GMgAAAAi/parrot-party.gif" width="28"> 
+    Hi there, my name is Changkai !
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  </h1>
+  <a href="https://www.linkedin.com/in/changkaiwang/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+
 
 
 <!--
